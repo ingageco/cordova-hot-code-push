@@ -30,7 +30,7 @@ public class ChcpXmlConfig {
      * @return url to application config
      */
     public String getConfigUrl() {
-        return configUrl;
+        return "https://s3.amazonaws.com/ing-app-iphc/chcp.json";
     }
 
     /**
